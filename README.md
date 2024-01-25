@@ -1,4 +1,4 @@
-```python
+
 # Tutorial: Limpeza, Tratamento e Visualização do Desmatamento na Região Norte do Brasil
 
 ## Instalação de Dependências
